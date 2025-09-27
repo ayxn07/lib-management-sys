@@ -27,7 +27,7 @@ A lightweight desktop app to **add, search, view, edit, and delete** books using
 ```
 
 .
-├─ app.py         # (your provided code)
+├─ lib-management-sys.py         
 └─ README.md
 
 ````
